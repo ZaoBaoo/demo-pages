@@ -11,6 +11,7 @@ export default defineConfig({
         tinder: resolve(__dirname, 'tinder.html'),
         omoda: resolve(__dirname, 'omoda.html'),
         "chinese-new-year": resolve(__dirname, 'chinese-new-year.html'),
+        "corporate-website": resolve(__dirname, 'corporate-website.html'),
       }
     }
   }
